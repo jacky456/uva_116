@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dalton386/Desktop/CMPT409/assn3/116/main.cpp
+iostream
+-
+vector
+-
+string
+-
+iterator
+-
+queue
+-
+sstream
+-
+algorithm
+-
+climits
+-
+
